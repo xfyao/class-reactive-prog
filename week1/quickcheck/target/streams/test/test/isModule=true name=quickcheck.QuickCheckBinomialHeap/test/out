@@ -1,0 +1,8 @@
+[0m[[0minfo[0m] [0m+ Heap.min1: OK, passed 100 tests.[0m
+[0m[[0minfo[0m] [0m+ Heap.min2: OK, passed 100 tests.[0m
+[0m[[0minfo[0m] [0m+ Heap.delete: OK, passed 100 tests.[0m
+[0m[[0minfo[0m] [0m+ Heap.gen1: OK, passed 100 tests.[0m
+[0m[[0minfo[0m] [0m+ Heap.melding: OK, passed 100 tests.[0m
+[0m[[0minfo[0m] [0m+ Heap.simpleF&D: OK, passed 100 tests.[0m
+[0m[[0minfo[0m] [0m+ Heap.find&delete: OK, passed 100 tests.[0m
+[0m[[0minfo[0m] [0m+ Heap.melding&find&delete: OK, passed 100 tests.[0m

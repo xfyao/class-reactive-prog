@@ -1,0 +1,24 @@
+test-only Step1_PrimarySpec
+test
+test-only
+test-only kvstore.Step1_PrimarySpec
+test-only kvstore.Step3_ReplicatorSpec
+test-only kvstore.Step4_SecondaryPersistenceSpec
+test-only kvstore.Step3_ReplicatorSpec
+test-only kvstore.Step4_SecondaryPersistenceSpec
+test-only kvstore.Step3_ReplicatorSpec
+test-only kvstore.Step4_SecondaryPersistenceSpec
+test-only kvstore.Step5_PrimarySecondaryPersistenceSpec
+test-only kvstore.Step5_PrimaryPersistenceSpec
+test-only kvstore.Step6_NewSecondarySpec
+test
+test-only kvstore.Step2_SecondarySpec
+test
+test-only kvstore.Step5_PrimaryPersistenceSpec
+test
+submit xuefeng.yao@gmail.com JD9HjsjSH4
+test
+submit xuefeng.yao@gmail.com JD9HjsjSH4
+test
+submit xuefeng.yao@gmail.com JD9HjsjSH4
+submit xuefeng.yao@gmail.com Rp5CvBh9gV

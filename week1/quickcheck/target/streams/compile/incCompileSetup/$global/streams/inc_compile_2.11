@@ -1,0 +1,466 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/v962867/coursera/week1/quickcheck/target/scala-2.11/classes
+compile options:
+2 items
+0 -> -deprecation
+1 -> -feature
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.5
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+52 items
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/common/package.scala -> /Users/v962867/coursera/week1/quickcheck/target/scala-2.11/classes/common/package$$anonfun$subFile$1.class
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/common/package.scala -> /Users/v962867/coursera/week1/quickcheck/target/scala-2.11/classes/common/package$.class
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/common/package.scala -> /Users/v962867/coursera/week1/quickcheck/target/scala-2.11/classes/common/package.class
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> /Users/v962867/coursera/week1/quickcheck/target/scala-2.11/classes/quickcheck/BinomialHeap$Node$.class
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> /Users/v962867/coursera/week1/quickcheck/target/scala-2.11/classes/quickcheck/BinomialHeap$Node.class
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> /Users/v962867/coursera/week1/quickcheck/target/scala-2.11/classes/quickcheck/BinomialHeap$class.class
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> /Users/v962867/coursera/week1/quickcheck/target/scala-2.11/classes/quickcheck/BinomialHeap.class
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> /Users/v962867/coursera/week1/quickcheck/target/scala-2.11/classes/quickcheck/Bogus1BinomialHeap$class.class
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> /Users/v962867/coursera/week1/quickcheck/target/scala-2.11/classes/quickcheck/Bogus1BinomialHeap.class
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> /Users/v962867/coursera/week1/quickcheck/target/scala-2.11/classes/quickcheck/Bogus2BinomialHeap$class.class
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> /Users/v962867/coursera/week1/quickcheck/target/scala-2.11/classes/quickcheck/Bogus2BinomialHeap.class
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> /Users/v962867/coursera/week1/quickcheck/target/scala-2.11/classes/quickcheck/Bogus3BinomialHeap$class.class
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> /Users/v962867/coursera/week1/quickcheck/target/scala-2.11/classes/quickcheck/Bogus3BinomialHeap.class
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> /Users/v962867/coursera/week1/quickcheck/target/scala-2.11/classes/quickcheck/Bogus4BinomialHeap$class.class
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> /Users/v962867/coursera/week1/quickcheck/target/scala-2.11/classes/quickcheck/Bogus4BinomialHeap.class
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> /Users/v962867/coursera/week1/quickcheck/target/scala-2.11/classes/quickcheck/Bogus5BinomialHeap$class.class
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> /Users/v962867/coursera/week1/quickcheck/target/scala-2.11/classes/quickcheck/Bogus5BinomialHeap.class
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> /Users/v962867/coursera/week1/quickcheck/target/scala-2.11/classes/quickcheck/Heap.class
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> /Users/v962867/coursera/week1/quickcheck/target/scala-2.11/classes/quickcheck/IntHeap$class.class
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> /Users/v962867/coursera/week1/quickcheck/target/scala-2.11/classes/quickcheck/IntHeap.class
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> /Users/v962867/coursera/week1/quickcheck/target/scala-2.11/classes/quickcheck/QuickCheckHeap$$anonfun$1.class
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> /Users/v962867/coursera/week1/quickcheck/target/scala-2.11/classes/quickcheck/QuickCheckHeap$$anonfun$10.class
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> /Users/v962867/coursera/week1/quickcheck/target/scala-2.11/classes/quickcheck/QuickCheckHeap$$anonfun$11.class
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> /Users/v962867/coursera/week1/quickcheck/target/scala-2.11/classes/quickcheck/QuickCheckHeap$$anonfun$12.class
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> /Users/v962867/coursera/week1/quickcheck/target/scala-2.11/classes/quickcheck/QuickCheckHeap$$anonfun$13.class
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> /Users/v962867/coursera/week1/quickcheck/target/scala-2.11/classes/quickcheck/QuickCheckHeap$$anonfun$14.class
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> /Users/v962867/coursera/week1/quickcheck/target/scala-2.11/classes/quickcheck/QuickCheckHeap$$anonfun$15.class
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> /Users/v962867/coursera/week1/quickcheck/target/scala-2.11/classes/quickcheck/QuickCheckHeap$$anonfun$16.class
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> /Users/v962867/coursera/week1/quickcheck/target/scala-2.11/classes/quickcheck/QuickCheckHeap$$anonfun$17.class
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> /Users/v962867/coursera/week1/quickcheck/target/scala-2.11/classes/quickcheck/QuickCheckHeap$$anonfun$18.class
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> /Users/v962867/coursera/week1/quickcheck/target/scala-2.11/classes/quickcheck/QuickCheckHeap$$anonfun$19.class
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> /Users/v962867/coursera/week1/quickcheck/target/scala-2.11/classes/quickcheck/QuickCheckHeap$$anonfun$2.class
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> /Users/v962867/coursera/week1/quickcheck/target/scala-2.11/classes/quickcheck/QuickCheckHeap$$anonfun$20.class
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> /Users/v962867/coursera/week1/quickcheck/target/scala-2.11/classes/quickcheck/QuickCheckHeap$$anonfun$21.class
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> /Users/v962867/coursera/week1/quickcheck/target/scala-2.11/classes/quickcheck/QuickCheckHeap$$anonfun$22.class
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> /Users/v962867/coursera/week1/quickcheck/target/scala-2.11/classes/quickcheck/QuickCheckHeap$$anonfun$23.class
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> /Users/v962867/coursera/week1/quickcheck/target/scala-2.11/classes/quickcheck/QuickCheckHeap$$anonfun$24.class
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> /Users/v962867/coursera/week1/quickcheck/target/scala-2.11/classes/quickcheck/QuickCheckHeap$$anonfun$25.class
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> /Users/v962867/coursera/week1/quickcheck/target/scala-2.11/classes/quickcheck/QuickCheckHeap$$anonfun$26.class
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> /Users/v962867/coursera/week1/quickcheck/target/scala-2.11/classes/quickcheck/QuickCheckHeap$$anonfun$27.class
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> /Users/v962867/coursera/week1/quickcheck/target/scala-2.11/classes/quickcheck/QuickCheckHeap$$anonfun$28.class
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> /Users/v962867/coursera/week1/quickcheck/target/scala-2.11/classes/quickcheck/QuickCheckHeap$$anonfun$3.class
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> /Users/v962867/coursera/week1/quickcheck/target/scala-2.11/classes/quickcheck/QuickCheckHeap$$anonfun$4.class
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> /Users/v962867/coursera/week1/quickcheck/target/scala-2.11/classes/quickcheck/QuickCheckHeap$$anonfun$5.class
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> /Users/v962867/coursera/week1/quickcheck/target/scala-2.11/classes/quickcheck/QuickCheckHeap$$anonfun$6.class
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> /Users/v962867/coursera/week1/quickcheck/target/scala-2.11/classes/quickcheck/QuickCheckHeap$$anonfun$7.class
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> /Users/v962867/coursera/week1/quickcheck/target/scala-2.11/classes/quickcheck/QuickCheckHeap$$anonfun$8.class
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> /Users/v962867/coursera/week1/quickcheck/target/scala-2.11/classes/quickcheck/QuickCheckHeap$$anonfun$9.class
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> /Users/v962867/coursera/week1/quickcheck/target/scala-2.11/classes/quickcheck/QuickCheckHeap$$anonfun$arbHeap$1.class
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> /Users/v962867/coursera/week1/quickcheck/target/scala-2.11/classes/quickcheck/QuickCheckHeap$$anonfun$genHeap$1$$anonfun$apply$1.class
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> /Users/v962867/coursera/week1/quickcheck/target/scala-2.11/classes/quickcheck/QuickCheckHeap$$anonfun$genHeap$1.class
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> /Users/v962867/coursera/week1/quickcheck/target/scala-2.11/classes/quickcheck/QuickCheckHeap.class
+binary dependencies:
+7 items
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/common/package.scala -> /Library/Java/JavaVirtualMachines/jdk1.7.0_76.jdk/Contents/Home/jre/lib/rt.jar
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/common/package.scala -> /Users/v962867/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.5.jar
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> /Library/Java/JavaVirtualMachines/jdk1.7.0_76.jdk/Contents/Home/jre/lib/rt.jar
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> /Users/v962867/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.5.jar
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> /Library/Java/JavaVirtualMachines/jdk1.7.0_76.jdk/Contents/Home/jre/lib/rt.jar
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> /Users/v962867/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.5.jar
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> /Users/v962867/.ivy2/cache/org.scalacheck/scalacheck_2.11/jars/scalacheck_2.11-1.12.1.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+1 items
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> /Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+1 items
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> /Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala
+inheritance external dependencies:
+0 items
+class names:
+52 items
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/common/package.scala -> common.package
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/common/package.scala -> common.package$
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/common/package.scala -> common.package$$anonfun$subFile$1
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> quickcheck.BinomialHeap
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> quickcheck.BinomialHeap$Node
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> quickcheck.BinomialHeap$Node$
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> quickcheck.BinomialHeap$class
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> quickcheck.Bogus1BinomialHeap
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> quickcheck.Bogus1BinomialHeap$class
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> quickcheck.Bogus2BinomialHeap
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> quickcheck.Bogus2BinomialHeap$class
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> quickcheck.Bogus3BinomialHeap
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> quickcheck.Bogus3BinomialHeap$class
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> quickcheck.Bogus4BinomialHeap
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> quickcheck.Bogus4BinomialHeap$class
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> quickcheck.Bogus5BinomialHeap
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> quickcheck.Bogus5BinomialHeap$class
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> quickcheck.Heap
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> quickcheck.IntHeap
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> quickcheck.IntHeap$class
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> quickcheck.QuickCheckHeap
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> quickcheck.QuickCheckHeap$$anonfun$1
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> quickcheck.QuickCheckHeap$$anonfun$10
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> quickcheck.QuickCheckHeap$$anonfun$11
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> quickcheck.QuickCheckHeap$$anonfun$12
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> quickcheck.QuickCheckHeap$$anonfun$13
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> quickcheck.QuickCheckHeap$$anonfun$14
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> quickcheck.QuickCheckHeap$$anonfun$15
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> quickcheck.QuickCheckHeap$$anonfun$16
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> quickcheck.QuickCheckHeap$$anonfun$17
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> quickcheck.QuickCheckHeap$$anonfun$18
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> quickcheck.QuickCheckHeap$$anonfun$19
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> quickcheck.QuickCheckHeap$$anonfun$2
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> quickcheck.QuickCheckHeap$$anonfun$20
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> quickcheck.QuickCheckHeap$$anonfun$21
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> quickcheck.QuickCheckHeap$$anonfun$22
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> quickcheck.QuickCheckHeap$$anonfun$23
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> quickcheck.QuickCheckHeap$$anonfun$24
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> quickcheck.QuickCheckHeap$$anonfun$25
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> quickcheck.QuickCheckHeap$$anonfun$26
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> quickcheck.QuickCheckHeap$$anonfun$27
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> quickcheck.QuickCheckHeap$$anonfun$28
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> quickcheck.QuickCheckHeap$$anonfun$3
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> quickcheck.QuickCheckHeap$$anonfun$4
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> quickcheck.QuickCheckHeap$$anonfun$5
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> quickcheck.QuickCheckHeap$$anonfun$6
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> quickcheck.QuickCheckHeap$$anonfun$7
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> quickcheck.QuickCheckHeap$$anonfun$8
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> quickcheck.QuickCheckHeap$$anonfun$9
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> quickcheck.QuickCheckHeap$$anonfun$arbHeap$1
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> quickcheck.QuickCheckHeap$$anonfun$genHeap$1
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> quickcheck.QuickCheckHeap$$anonfun$genHeap$1$$anonfun$apply$1
+used names:
+188 items
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/common/package.scala -> ::
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/common/package.scala -> <init>
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/common/package.scala -> <repeated>
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/common/package.scala -> Any
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/common/package.scala -> AnyRef
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/common/package.scala -> File
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/common/package.scala -> FileInputStream
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/common/package.scala -> InputStream
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/common/package.scala -> List
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/common/package.scala -> None
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/common/package.scala -> Nothing
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/common/package.scala -> Option
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/common/package.scala -> Predef
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/common/package.scala -> String
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/common/package.scala -> _root_
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/common/package.scala -> child
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/common/package.scala -> children
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/common/package.scala -> classesDir
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/common/package.scala -> common
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/common/package.scala -> exists
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/common/package.scala -> file
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/common/package.scala -> foldLeft
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/common/package.scala -> getClass
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/common/package.scala -> getParentFile
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/common/package.scala -> getResource
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/common/package.scala -> io
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/common/package.scala -> java
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/common/package.scala -> package
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/common/package.scala -> projectDir
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/common/package.scala -> resourceFile
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/common/package.scala -> resourcePath
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/common/package.scala -> scala
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/common/package.scala -> subFile
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/common/package.scala -> toURI
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> &&
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> +
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> ++
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> ::
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> <
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> <init>
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> ==
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> A
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> AbstractFunction3
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> AnyRef
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> BinomialHeap
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> Bogus1BinomialHeap
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> Bogus2BinomialHeap
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> Bogus3BinomialHeap
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> Bogus4BinomialHeap
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> Bogus5BinomialHeap
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> Boolean
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> H
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> Heap
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> Int
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> List
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> Nil
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> NoSuchElementException
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> Node
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> None
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> Ordering
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> Product
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> Rank
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> ScalaRunTime
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> Serializable
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> Statics
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> Tuple2
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> _1
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> _2
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> _toString
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> anyHash
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> apply
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> asInstanceOf
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> c
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> canBuildFrom
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> common
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> eq
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> finalizeHash
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> findMin
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> getMin
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> head
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> immutable
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> ins
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> isEmpty
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> isInstanceOf
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> link
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> lteq
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> math
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> meld
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> mix
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> ne
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> ord
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> package
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> quickcheck
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> r
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> reverse
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> root
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> runtime
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> scala
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> t
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> t1
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> t2
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> toString
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> tp
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> tq
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> ts
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> ts1
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> ts2
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> tsp
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> tsq
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> typedProductIterator
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> unary_!
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> unchecked
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> x
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> ||
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> &&
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> ::
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> :::
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> <=
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> <init>
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> ==
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> Arbitrary
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> Boolean
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> Gen
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> H
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> Int
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> IntHeap
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> List
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> Nil
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> Ordering
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> Pretty
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> Prop
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> Properties
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> QuickCheckHeap
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> Shrink
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> a
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> apply
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> arbHeap
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> arbInt
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> arbitrary
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> asInstanceOf
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> b
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> common
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> const
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> deleteMin
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> empty
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> findMin
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> flatMap
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> forAll
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> genHeap
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> getAndDeleteMin
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> h
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> h1
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> h2
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> h3
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> head
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> immutable
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> insert
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> isEmpty
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> isInstanceOf
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> isOrdered
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> k
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> l
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> m
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> map
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> math
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> max
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> meld
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> min
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> oneOf
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> org
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> package
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> prettyAny
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> propBoolean
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> property
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> quickcheck
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> scala
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> scalacheck
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> shrinkAny
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> shrinkInt
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> sorted
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> sorted1
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> sorted12
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> sorted2
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> sorted_all
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> update
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> util
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> x
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> xs
+product stamps:
+52 items
+/Users/v962867/coursera/week1/quickcheck/target/scala-2.11/classes/common/package$$anonfun$subFile$1.class -> lastModified(1429672984000)
+/Users/v962867/coursera/week1/quickcheck/target/scala-2.11/classes/common/package$.class -> lastModified(1429672984000)
+/Users/v962867/coursera/week1/quickcheck/target/scala-2.11/classes/common/package.class -> lastModified(1429672984000)
+/Users/v962867/coursera/week1/quickcheck/target/scala-2.11/classes/quickcheck/BinomialHeap$Node$.class -> lastModified(1429672984000)
+/Users/v962867/coursera/week1/quickcheck/target/scala-2.11/classes/quickcheck/BinomialHeap$Node.class -> lastModified(1429672984000)
+/Users/v962867/coursera/week1/quickcheck/target/scala-2.11/classes/quickcheck/BinomialHeap$class.class -> lastModified(1429672984000)
+/Users/v962867/coursera/week1/quickcheck/target/scala-2.11/classes/quickcheck/BinomialHeap.class -> lastModified(1429672984000)
+/Users/v962867/coursera/week1/quickcheck/target/scala-2.11/classes/quickcheck/Bogus1BinomialHeap$class.class -> lastModified(1429672984000)
+/Users/v962867/coursera/week1/quickcheck/target/scala-2.11/classes/quickcheck/Bogus1BinomialHeap.class -> lastModified(1429672984000)
+/Users/v962867/coursera/week1/quickcheck/target/scala-2.11/classes/quickcheck/Bogus2BinomialHeap$class.class -> lastModified(1429672984000)
+/Users/v962867/coursera/week1/quickcheck/target/scala-2.11/classes/quickcheck/Bogus2BinomialHeap.class -> lastModified(1429672984000)
+/Users/v962867/coursera/week1/quickcheck/target/scala-2.11/classes/quickcheck/Bogus3BinomialHeap$class.class -> lastModified(1429672984000)
+/Users/v962867/coursera/week1/quickcheck/target/scala-2.11/classes/quickcheck/Bogus3BinomialHeap.class -> lastModified(1429672984000)
+/Users/v962867/coursera/week1/quickcheck/target/scala-2.11/classes/quickcheck/Bogus4BinomialHeap$class.class -> lastModified(1429672984000)
+/Users/v962867/coursera/week1/quickcheck/target/scala-2.11/classes/quickcheck/Bogus4BinomialHeap.class -> lastModified(1429672984000)
+/Users/v962867/coursera/week1/quickcheck/target/scala-2.11/classes/quickcheck/Bogus5BinomialHeap$class.class -> lastModified(1429672984000)
+/Users/v962867/coursera/week1/quickcheck/target/scala-2.11/classes/quickcheck/Bogus5BinomialHeap.class -> lastModified(1429672984000)
+/Users/v962867/coursera/week1/quickcheck/target/scala-2.11/classes/quickcheck/Heap.class -> lastModified(1429672984000)
+/Users/v962867/coursera/week1/quickcheck/target/scala-2.11/classes/quickcheck/IntHeap$class.class -> lastModified(1429672984000)
+/Users/v962867/coursera/week1/quickcheck/target/scala-2.11/classes/quickcheck/IntHeap.class -> lastModified(1429672984000)
+/Users/v962867/coursera/week1/quickcheck/target/scala-2.11/classes/quickcheck/QuickCheckHeap$$anonfun$1.class -> lastModified(1429684699000)
+/Users/v962867/coursera/week1/quickcheck/target/scala-2.11/classes/quickcheck/QuickCheckHeap$$anonfun$10.class -> lastModified(1429684699000)
+/Users/v962867/coursera/week1/quickcheck/target/scala-2.11/classes/quickcheck/QuickCheckHeap$$anonfun$11.class -> lastModified(1429684699000)
+/Users/v962867/coursera/week1/quickcheck/target/scala-2.11/classes/quickcheck/QuickCheckHeap$$anonfun$12.class -> lastModified(1429684699000)
+/Users/v962867/coursera/week1/quickcheck/target/scala-2.11/classes/quickcheck/QuickCheckHeap$$anonfun$13.class -> lastModified(1429684699000)
+/Users/v962867/coursera/week1/quickcheck/target/scala-2.11/classes/quickcheck/QuickCheckHeap$$anonfun$14.class -> lastModified(1429684699000)
+/Users/v962867/coursera/week1/quickcheck/target/scala-2.11/classes/quickcheck/QuickCheckHeap$$anonfun$15.class -> lastModified(1429684699000)
+/Users/v962867/coursera/week1/quickcheck/target/scala-2.11/classes/quickcheck/QuickCheckHeap$$anonfun$16.class -> lastModified(1429684699000)
+/Users/v962867/coursera/week1/quickcheck/target/scala-2.11/classes/quickcheck/QuickCheckHeap$$anonfun$17.class -> lastModified(1429684699000)
+/Users/v962867/coursera/week1/quickcheck/target/scala-2.11/classes/quickcheck/QuickCheckHeap$$anonfun$18.class -> lastModified(1429684699000)
+/Users/v962867/coursera/week1/quickcheck/target/scala-2.11/classes/quickcheck/QuickCheckHeap$$anonfun$19.class -> lastModified(1429684699000)
+/Users/v962867/coursera/week1/quickcheck/target/scala-2.11/classes/quickcheck/QuickCheckHeap$$anonfun$2.class -> lastModified(1429684699000)
+/Users/v962867/coursera/week1/quickcheck/target/scala-2.11/classes/quickcheck/QuickCheckHeap$$anonfun$20.class -> lastModified(1429684699000)
+/Users/v962867/coursera/week1/quickcheck/target/scala-2.11/classes/quickcheck/QuickCheckHeap$$anonfun$21.class -> lastModified(1429684699000)
+/Users/v962867/coursera/week1/quickcheck/target/scala-2.11/classes/quickcheck/QuickCheckHeap$$anonfun$22.class -> lastModified(1429684699000)
+/Users/v962867/coursera/week1/quickcheck/target/scala-2.11/classes/quickcheck/QuickCheckHeap$$anonfun$23.class -> lastModified(1429684699000)
+/Users/v962867/coursera/week1/quickcheck/target/scala-2.11/classes/quickcheck/QuickCheckHeap$$anonfun$24.class -> lastModified(1429684699000)
+/Users/v962867/coursera/week1/quickcheck/target/scala-2.11/classes/quickcheck/QuickCheckHeap$$anonfun$25.class -> lastModified(1429684699000)
+/Users/v962867/coursera/week1/quickcheck/target/scala-2.11/classes/quickcheck/QuickCheckHeap$$anonfun$26.class -> lastModified(1429684699000)
+/Users/v962867/coursera/week1/quickcheck/target/scala-2.11/classes/quickcheck/QuickCheckHeap$$anonfun$27.class -> lastModified(1429684699000)
+/Users/v962867/coursera/week1/quickcheck/target/scala-2.11/classes/quickcheck/QuickCheckHeap$$anonfun$28.class -> lastModified(1429684699000)
+/Users/v962867/coursera/week1/quickcheck/target/scala-2.11/classes/quickcheck/QuickCheckHeap$$anonfun$3.class -> lastModified(1429684699000)
+/Users/v962867/coursera/week1/quickcheck/target/scala-2.11/classes/quickcheck/QuickCheckHeap$$anonfun$4.class -> lastModified(1429684699000)
+/Users/v962867/coursera/week1/quickcheck/target/scala-2.11/classes/quickcheck/QuickCheckHeap$$anonfun$5.class -> lastModified(1429684699000)
+/Users/v962867/coursera/week1/quickcheck/target/scala-2.11/classes/quickcheck/QuickCheckHeap$$anonfun$6.class -> lastModified(1429684699000)
+/Users/v962867/coursera/week1/quickcheck/target/scala-2.11/classes/quickcheck/QuickCheckHeap$$anonfun$7.class -> lastModified(1429684699000)
+/Users/v962867/coursera/week1/quickcheck/target/scala-2.11/classes/quickcheck/QuickCheckHeap$$anonfun$8.class -> lastModified(1429684699000)
+/Users/v962867/coursera/week1/quickcheck/target/scala-2.11/classes/quickcheck/QuickCheckHeap$$anonfun$9.class -> lastModified(1429684699000)
+/Users/v962867/coursera/week1/quickcheck/target/scala-2.11/classes/quickcheck/QuickCheckHeap$$anonfun$arbHeap$1.class -> lastModified(1429684699000)
+/Users/v962867/coursera/week1/quickcheck/target/scala-2.11/classes/quickcheck/QuickCheckHeap$$anonfun$genHeap$1$$anonfun$apply$1.class -> lastModified(1429684699000)
+/Users/v962867/coursera/week1/quickcheck/target/scala-2.11/classes/quickcheck/QuickCheckHeap$$anonfun$genHeap$1.class -> lastModified(1429684699000)
+/Users/v962867/coursera/week1/quickcheck/target/scala-2.11/classes/quickcheck/QuickCheckHeap.class -> lastModified(1429684699000)
+source stamps:
+3 items
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/common/package.scala -> hash(959d2de80692406118ffed481da44534a9da824a)
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> hash(f2c8f7d27d9ab0b931cb769dc7eb0b37476611f7)
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> hash(18569be71997c67216ab56eae875fabad7d41d63)
+binary stamps:
+3 items
+/Library/Java/JavaVirtualMachines/jdk1.7.0_76.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1418949589000)
+/Users/v962867/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.5.jar -> lastModified(1420590731000)
+/Users/v962867/.ivy2/cache/org.scalacheck/scalacheck_2.11/jars/scalacheck_2.11-1.12.1.jar -> lastModified(1417510413000)
+class names:
+3 items
+/Library/Java/JavaVirtualMachines/jdk1.7.0_76.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/v962867/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.5.jar -> scala.collection.immutable.List
+/Users/v962867/.ivy2/cache/org.scalacheck/scalacheck_2.11/jars/scalacheck_2.11-1.12.1.jar -> org.scalacheck.Properties
+internal apis:
+3 items
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/common/package.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCH2I3RAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cMm+MXx0AAZub3RpZnlzcQB+AAyE/M00dAAHcGFja2FnZXNxAH4ADCYSurZ0AAR3YWl0c3EAfgAM8efqjHQADSRhc0luc3RhbmNlT2ZzcQB+AAzNivwPdAAGZXF1YWxzc3EAfgAM8WxUaXQADGFzSW5zdGFuY2VPZnNxAH4ADM7IhUp0AAxzeW5jaHJvbml6ZWRzcQB+AAxYw5T1dAANJGlzSW5zdGFuY2VPZnNxAH4ADKo9iEt0ABdyZXNvdXJjZUFzU3RyZWFtRnJvbVNyY3NxAH4ADIN8vFN0AAlub3RpZnlBbGxzcQB+AAwmJKnKdAAMaXNJbnN0YW5jZU9mc3EAfgAMacTab3QAAz8/P3NxAH4ADJp6YJF0AAI9PXNxAH4ADPKN8FN0AAVjbG9uZXNxAH4ADGdM1iN0AAdzdWJGaWxlc3EAfgAMJCvh6HQACHRvU3RyaW5nc3EAfgAMP7rEanQAAiE9c3EAfgAMCJe6qnQACGdldENsYXNzc3EAfgAMCCpDk3QAAm5lc3EAfgAMGnQJi3QAAmVxc3EAfgAMkxI1z3QAAiMjc3EAfgAMjXTkU3QACGZpbmFsaXplc3EAfgAMVNQ/iHQACGhhc2hDb2Rlc3EAfgAMe21E9HQAAyoqKnNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEd4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0AA5jb21tb24ucGFja2FnZXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AGB4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AF8Bc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEdMAAlpbmhlcml0ZWRxAH4AR0wAB3BhcmVudHNxAH4AR3hxAH4AaHNxAH4AXwF1cQB+AEIAAAAAcHNxAH4AXwF1cQB+AEIAAAAAcHNxAH4AXwF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGd0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGdzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AIB0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AIFzcQB+AHR0AANBbnlzcQB+AHhzcQB+AHt1cQB+AH4AAAACc3EAfgCAdAAFc2NhbGFxAH4Ah3BwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAGY29tbW9uc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFM3yZLlnVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEIvVXNlcnMvdjk2Mjg2Ny9jb3Vyc2VyYS93ZWVrMS9xdWlja2NoZWNrL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABSVnS3oBpJAYRj/7UgdpEU0qdqCSg==
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDwoTBSAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAPXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cPFlL6d0AAZub3RpZnlzcQB+AAylRc1LdAAHdW5hcHBseXNxAH4ADGm5W8F0AAdjdXJyaWVkc3EAfgAMmMbD5XQABEhlYXBzcQB+AAzyQqbVdAABeHNxAH4ADHCdp3V0AAR3YWl0c3EAfgAMsgc093QADmNvcHkkZGVmYXVsdCQyc3EAfgAM9zr88XQADSRhc0luc3RhbmNlT2ZzcQB+AAyYzjg5dAAFZW1wdHlzcQB+AAz3iH8bdAASQm9ndXMxQmlub21pYWxIZWFwc3EAfgAM/lcaBHQABmluc2VydHNxAH4ADJUfK450AARyb290c3EAfgAMDhBqGHQADHByb2R1Y3RBcml0eXNxAH4ADGlG8+p0AAZlcXVhbHNzcQB+AAwmuq/KdAAEUmFua3NxAH4ADDxjnQN0AAdJbnRIZWFwc3EAfgAMKed0DnQAEkJvZ3VzNEJpbm9taWFsSGVhcHNxAH4ADC+fEBZ0AAxhc0luc3RhbmNlT2ZzcQB+AAzvw3WEdAASQm9ndXMyQmlub21pYWxIZWFwc3EAfgAMNhgKU3QABHJhbmtzcQB+AAyCJ7h9dAAMc3luY2hyb25pemVkc3EAfgAMUeZsL3QACWRlbGV0ZU1pbnNxAH4ADF0npwZ0AAFBc3EAfgAMGUnw2HQAEkJvZ3VzNUJpbm9taWFsSGVhcHNxAH4ADO0jlq90AA0kaXNJbnN0YW5jZU9mc3EAfgAMaMhIOXQABE5vZGVzcQB+AAz11/6sdAAGdHVwbGVkc3EAfgAM4TrZunQACGNhbkVxdWFsc3EAfgAMw4XpG3QADXByb2R1Y3RQcmVmaXhzcQB+AAyDdJ2vdAAJbm90aWZ5QWxsc3EAfgAMTIGvInQAC3JlYWRSZXNvbHZlc3EAfgAM1Z709nQADGlzSW5zdGFuY2VPZnNxAH4ADHXS0/90AANpbnNzcQB+AAwRya59dAAGPGluaXQ+c3EAfgAMSghkIXQABWFwcGx5c3EAfgAMDSxxxHQAAj09c3EAfgAMw5voWnQABWNsb25lc3EAfgAMrOfvTHQABGxpbmtzcQB+AAw8wYsvdAAGJGluaXQkc3EAfgAMQ4AcNXQADmNvcHkkZGVmYXVsdCQzc3EAfgAMj2F2N3QABGNvcHlzcQB+AAyWZObcdAAEbWVsZHNxAH4ADAH6cCZ0AAh0b1N0cmluZ3NxAH4ADFJ5SkR0AAFIc3EAfgAMjGHZn3QAAiE9c3EAfgAMKEqDaHQAAWNzcQB+AAzf2RlbdAAMQmlub21pYWxIZWFwc3EAfgAMXFg+W3QACGdldENsYXNzc3EAfgAMpGI49XQADmNvcHkkZGVmYXVsdCQxc3EAfgAM7uTE0nQAAXJzcQB+AAx/sktddAAHaXNFbXB0eXNxAH4ADGLZV3F0ABJCb2d1czNCaW5vbWlhbEhlYXBzcQB+AAwldbv9dAACbmVzcQB+AAzkaQTFdAAHZmluZE1pbnNxAH4ADESvgjh0AAJlcXNxAH4ADFWFwAN0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAx6tfj5dAADb3Jkc3EAfgAMPBheDHQAAiMjc3EAfgAM2edqNHQACGZpbmFsaXplc3EAfgAMVaMPuHQADnByb2R1Y3RFbGVtZW50c3EAfgAMKNHUvnQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAACHNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AkXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAXQAEnF1aWNrY2hlY2suSW50SGVhcHVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABVRyYWl0dXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4Aqnhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AqQBwc3EAfgCuc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AJFMAAlpbmhlcml0ZWRxAH4AkUwAB3BhcmVudHNxAH4AkXhxAH4AsnNxAH4AqQBwc3EAfgCudXEAfgCMAAAAAHNxAH4AqQBwc3EAfgCudXEAfgCMAAAAAHNxAH4AqQBwc3EAfgCudXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAANzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgCxdAAESGVhcHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AsXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAKcXVpY2tjaGVja3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgDPc3EAfgDCdAAGT2JqZWN0c3EAfgDGc3EAfgDJdXEAfgDMAAAAA3NxAH4AznQABGphdmFzcQB+AM50AARsYW5ncQB+ANNzcQB+AMJ0AANBbnlzcQB+AMZzcQB+AMl1cQB+AMwAAAACc3EAfgDOdAAFc2NhbGFxAH4A03NxAH4AjnEAfgCbdXEAfgCcAAAAAHNxAH4AngF0AA9xdWlja2NoZWNrLkhlYXB1cQB+AKEAAAAAcQB+AKV1cQB+AKcAAAAAc3EAfgCpAHBzcQB+AK5xAH4As3NxAH4AqQBwc3EAfgCuc3EAfgC2c3EAfgCpAHBzcQB+AK51cQB+AIwAAAAAc3EAfgCpAHBzcQB+AK51cQB+AIwAAAAAc3EAfgCpAHBzcQB+AK51cQB+AMAAAAACc3EAfgDCcQB+ANVzcQB+AMZzcQB+AMl1cQB+AMwAAAADc3EAfgDOcQB+ANpzcQB+AM5xAH4A3HEAfgDTc3EAfgDCcQB+AN5zcQB+AMZzcQB+AMl1cQB+AMwAAAACc3EAfgDOcQB+AONxAH4A03NxAH4AjnEAfgCbdXEAfgCcAAAAAHNxAH4AngF0ABdxdWlja2NoZWNrLkJpbm9taWFsSGVhcHVxAH4AoQAAAABxAH4ApXVxAH4ApwAAAABzcQB+AKkAcHNxAH4ArnEAfgCzc3EAfgCpAHBzcQB+AK5zcQB+ALZzcQB+AKkAcHNxAH4ArnVxAH4AjAAAAABzcQB+AKkAcHNxAH4ArnVxAH4AjAAAAABzcQB+AKkAcHNxAH4ArnVxAH4AwAAAAANzcQB+AMJ0AARIZWFwc3EAfgDGc3EAfgDJdXEAfgDMAAAAAnNxAH4AznQACnF1aWNrY2hlY2txAH4A03NxAH4AwnEAfgDVc3EAfgDGc3EAfgDJdXEAfgDMAAAAA3NxAH4AznEAfgDac3EAfgDOcQB+ANxxAH4A03NxAH4AwnEAfgDec3EAfgDGc3EAfgDJdXEAfgDMAAAAAnNxAH4AznEAfgDjcQB+ANNzcQB+AI5xAH4Am3VxAH4AnAAAAABzcQB+AJ4BdAAdcXVpY2tjaGVjay5Cb2d1czFCaW5vbWlhbEhlYXB1cQB+AKEAAAAAcQB+AKV1cQB+AKcAAAAAc3EAfgCpAHBzcQB+AK5xAH4As3NxAH4AqQBwc3EAfgCuc3EAfgC2c3EAfgCpAHBzcQB+AK51cQB+AIwAAAAAc3EAfgCpAHBzcQB+AK51cQB+AIwAAAAAc3EAfgCpAHBzcQB+AK51cQB+AMAAAAAEc3EAfgDCdAAMQmlub21pYWxIZWFwc3EAfgDGc3EAfgDJdXEAfgDMAAAAAnNxAH4AznQACnF1aWNrY2hlY2txAH4A03NxAH4AwnQABEhlYXBxAH4BP3NxAH4AwnEAfgDVc3EAfgDGc3EAfgDJdXEAfgDMAAAAA3NxAH4AznEAfgDac3EAfgDOcQB+ANxxAH4A03NxAH4AwnEAfgDec3EAfgDGc3EAfgDJdXEAfgDMAAAAAnNxAH4AznEAfgDjcQB+ANNzcQB+AI5xAH4Am3VxAH4AnAAAAABzcQB+AJ4BdAAdcXVpY2tjaGVjay5Cb2d1czJCaW5vbWlhbEhlYXB1cQB+AKEAAAAAcQB+AKV1cQB+AKcAAAAAc3EAfgCpAHBzcQB+AK5xAH4As3NxAH4AqQBwc3EAfgCuc3EAfgC2c3EAfgCpAHBzcQB+AK51cQB+AIwAAAAAc3EAfgCpAHBzcQB+AK51cQB+AIwAAAAAc3EAfgCpAHBzcQB+AK51cQB+AMAAAAAEc3EAfgDCdAAMQmlub21pYWxIZWFwc3EAfgDGc3EAfgDJdXEAfgDMAAAAAnNxAH4AznQACnF1aWNrY2hlY2txAH4A03NxAH4AwnQABEhlYXBxAH4BZ3NxAH4AwnEAfgDVc3EAfgDGc3EAfgDJdXEAfgDMAAAAA3NxAH4AznEAfgDac3EAfgDOcQB+ANxxAH4A03NxAH4AwnEAfgDec3EAfgDGc3EAfgDJdXEAfgDMAAAAAnNxAH4AznEAfgDjcQB+ANNzcQB+AI5xAH4Am3VxAH4AnAAAAABzcQB+AJ4BdAAdcXVpY2tjaGVjay5Cb2d1czNCaW5vbWlhbEhlYXB1cQB+AKEAAAAAcQB+AKV1cQB+AKcAAAAAc3EAfgCpAHBzcQB+AK5xAH4As3NxAH4AqQBwc3EAfgCuc3EAfgC2c3EAfgCpAHBzcQB+AK51cQB+AIwAAAAAc3EAfgCpAHBzcQB+AK51cQB+AIwAAAAAc3EAfgCpAHBzcQB+AK51cQB+AMAAAAAEc3EAfgDCdAAMQmlub21pYWxIZWFwc3EAfgDGc3EAfgDJdXEAfgDMAAAAAnNxAH4AznQACnF1aWNrY2hlY2txAH4A03NxAH4AwnQABEhlYXBxAH4Bj3NxAH4AwnEAfgDVc3EAfgDGc3EAfgDJdXEAfgDMAAAAA3NxAH4AznEAfgDac3EAfgDOcQB+ANxxAH4A03NxAH4AwnEAfgDec3EAfgDGc3EAfgDJdXEAfgDMAAAAAnNxAH4AznEAfgDjcQB+ANNzcQB+AI5xAH4Am3VxAH4AnAAAAABzcQB+AJ4BdAAdcXVpY2tjaGVjay5Cb2d1czRCaW5vbWlhbEhlYXB1cQB+AKEAAAAAcQB+AKV1cQB+AKcAAAAAc3EAfgCpAHBzcQB+AK5xAH4As3NxAH4AqQBwc3EAfgCuc3EAfgC2c3EAfgCpAHBzcQB+AK51cQB+AIwAAAAAc3EAfgCpAHBzcQB+AK51cQB+AIwAAAAAc3EAfgCpAHBzcQB+AK51cQB+AMAAAAAEc3EAfgDCdAAMQmlub21pYWxIZWFwc3EAfgDGc3EAfgDJdXEAfgDMAAAAAnNxAH4AznQACnF1aWNrY2hlY2txAH4A03NxAH4AwnQABEhlYXBxAH4Bt3NxAH4AwnEAfgDVc3EAfgDGc3EAfgDJdXEAfgDMAAAAA3NxAH4AznEAfgDac3EAfgDOcQB+ANxxAH4A03NxAH4AwnEAfgDec3EAfgDGc3EAfgDJdXEAfgDMAAAAAnNxAH4AznEAfgDjcQB+ANNzcQB+AI5xAH4Am3VxAH4AnAAAAABzcQB+AJ4BdAAdcXVpY2tjaGVjay5Cb2d1czVCaW5vbWlhbEhlYXB1cQB+AKEAAAAAcQB+AKV1cQB+AKcAAAAAc3EAfgCpAHBzcQB+AK5xAH4As3NxAH4AqQBwc3EAfgCuc3EAfgC2c3EAfgCpAHBzcQB+AK51cQB+AIwAAAAAc3EAfgCpAHBzcQB+AK51cQB+AIwAAAAAc3EAfgCpAHBzcQB+AK51cQB+AMAAAAAEc3EAfgDCdAAMQmlub21pYWxIZWFwc3EAfgDGc3EAfgDJdXEAfgDMAAAAAnNxAH4AznQACnF1aWNrY2hlY2txAH4A03NxAH4AwnQABEhlYXBxAH4B33NxAH4AwnEAfgDVc3EAfgDGc3EAfgDJdXEAfgDMAAAAA3NxAH4AznEAfgDac3EAfgDOcQB+ANxxAH4A03NxAH4AwnEAfgDec3EAfgDGc3EAfgDJdXEAfgDMAAAAAnNxAH4AznEAfgDjcQB+ANN1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AApxdWlja2NoZWNrc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFM3yZLlnVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEIvVXNlcnMvdjk2Mjg2Ny9jb3Vyc2VyYS93ZWVrMS9xdWlja2NoZWNrL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABTyyPfSfZqwuTHLdp3H6ws3R2YR9w==
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDGs2IeAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAABc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwaQmrJHQAB2FyYkhlYXB1cQB+AAkAAAA2c3EAfgALs2M0nXQAB2dlbkhlYXBzcQB+AAvX2GkLdAAGbm90aWZ5c3EAfgALMyiuO3QAAz09PnNxAH4ACya+jPV0AARuYW1lc3EAfgAL6PGEu3QABHdhaXRzcQB+AAuGXCWgdAANJGFzSW5zdGFuY2VPZnNxAH4AC50pFJt0AAVlbXB0eXNxAH4ACxey7ol0AAI6fHNxAH4ACywRCld0AAlpc09yZGVyZWRzcQB+AAtcMr/gdAAGaW5zZXJ0c3EAfgALCOMHxnQAAnw6c3EAfgALiWIOMnQAA21hcHNxAH4AC9eKLBJ0AAZlcXVhbHNzcQB+AAtabGpJdAAMYXNJbnN0YW5jZU9mc3EAfgALwAoP8nQADHN5bmNocm9uaXplZHNxAH4AC0GK2uF0AAVsYWJlbHNxAH4AC8jnp+B0AAlkZWxldGVNaW5zcQB+AAtCOOardAABQXNxAH4AC3AD7uh0AA0kaXNJbnN0YW5jZU9mc3EAfgALVFuWjnQAAnx8c3EAfgALaCwes3QADlF1aWNrQ2hlY2tIZWFwc3EAfgALCIIyz3QABG1haW5zcQB+AAuAiBONdAAKbWFpblJ1bm5lcnNxAH4AC1r4nCN0AA9nZXRBbmREZWxldGVNaW5zcQB+AAs6ZlZndAAJbm90aWZ5QWxsc3EAfgALrFt4FnQADGlzSW5zdGFuY2VPZnNxAH4ACxP9+Xp0AA1tYWluQ2FsbHNFeGl0c3EAfgALFS3lx3QABjxpbml0PnNxAH4ACx5Ijmh0AApwcm9wZXJ0aWVzc3EAfgAL5OaTZnQABWNoZWNrc3EAfgAL4zDKL3QABWFwcGx5c3EAfgALbrTcFXQAAisrc3EAfgALSJhAgHQAEVByb3BlcnR5U3BlY2lmaWVyc3EAfgALdGkmvHQAB2ZsYXRNYXBzcQB+AAsL1XDVdAACPT1zcQB+AAsZtiVmdAAFY2xvbmVzcQB+AAtjjsHBdAAHY29tYmluZXNxAH4AC4c6EPl0AAdpbmNsdWRlc3EAfgALaVK46HQABG1lbGRzcQB+AAstVgfcdAAIdG9TdHJpbmdzcQB+AAsMvNcFdAABSHNxAH4ACydijt10AAhwcm9wZXJ0eXNxAH4AC5Tz2YZ0AAIhPXNxAH4AC3PWCpB0AAImJnNxAH4AC5hX0YV0AAhnZXRDbGFzc3NxAH4ACx2HiQZ0AAZ1cGRhdGVzcQB+AAthjqcEdAAHaXNFbXB0eXNxAH4AC3U2Ox50AAJuZXNxAH4ACydM9vl0AAdmaW5kTWluc3EAfgALtFt/mnQAAmVxc3EAfgALhFqtQXQAA29yZHNxAH4AC5ZUnWh0AAIjI3NxAH4AC0j9mOd0AAhmaW5hbGl6ZXNxAH4AC0lmWN90AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AIV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgAMeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAF0ABlxdWlja2NoZWNrLlF1aWNrQ2hlY2tIZWFwdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AJ0Bc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AIVMAAlpbmhlcml0ZWRxAH4AhUwAB3BhcmVudHNxAH4AhXhxAH4ApHNxAH4AnQF1cQB+AIAAAAAAcHNxAH4AnQF1cQB+AIAAAAAAcHNxAH4AnQF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAB3NyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AKN0AAdJbnRIZWFwc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgCjc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AApxdWlja2NoZWNrc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AL1zcQB+ALB0AARIZWFwcQB+ALZzcQB+ALB0AApQcm9wZXJ0aWVzc3EAfgC0c3EAfgC3dXEAfgC6AAAAA3NxAH4AvHQAA29yZ3NxAH4AvHQACnNjYWxhY2hlY2txAH4AwXNxAH4AsHQABFByb3BxAH4AxnNxAH4AsHQACFRlc3RhYmxlc3EAfgC0c3EAfgC3dXEAfgC6AAAABHNxAH4AvHQAA29yZ3NxAH4AvHQACnNjYWxhY2hlY2tzcQB+ALx0AAR1dGlscQB+AMFzcQB+ALB0AAZPYmplY3RzcQB+ALRzcQB+ALd1cQB+ALoAAAADc3EAfgC8dAAEamF2YXNxAH4AvHQABGxhbmdxAH4AwXNxAH4AsHQAA0FueXNxAH4AtHNxAH4At3VxAH4AugAAAAJzcQB+ALx0AAVzY2FsYXEAfgDBcHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgAMeHB0AApxdWlja2NoZWNrc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFM39k+bnVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADEwAD3NvdXJjZURpcmVjdG9yeXEAfgAMeHB0AEIvVXNlcnMvdjk2Mjg2Ny9jb3Vyc2VyYS93ZWVrMS9xdWlja2NoZWNrL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQYVpvnGZfGcharVurodfq619QdYw==
+external apis:
+0 items
+source infos:
+3 items
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/common/package.scala -> 
+AAAAAAAAAAA=
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/Heap.scala -> 
+AAAAAAAAAAA=
+/Users/v962867/coursera/week1/quickcheck/src/main/scala/quickcheck/QuickCheck.scala -> 
+AAAAAAAAAAA=
+compilations:
+30 items
+00 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTN8mS5Z1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQi9Vc2Vycy92OTYyODY3L2NvdXJzZXJhL3dlZWsxL3F1aWNrY2hlY2svdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+01 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTN8y4xt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQi9Vc2Vycy92OTYyODY3L2NvdXJzZXJhL3dlZWsxL3F1aWNrY2hlY2svdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+02 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTN83B3F1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQi9Vc2Vycy92OTYyODY3L2NvdXJzZXJhL3dlZWsxL3F1aWNrY2hlY2svdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+03 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTN84xTV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQi9Vc2Vycy92OTYyODY3L2NvdXJzZXJhL3dlZWsxL3F1aWNrY2hlY2svdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+04 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTN9LeG91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQi9Vc2Vycy92OTYyODY3L2NvdXJzZXJhL3dlZWsxL3F1aWNrY2hlY2svdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+05 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTN9UILV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQi9Vc2Vycy92OTYyODY3L2NvdXJzZXJhL3dlZWsxL3F1aWNrY2hlY2svdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+06 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTN92v4J1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQi9Vc2Vycy92OTYyODY3L2NvdXJzZXJhL3dlZWsxL3F1aWNrY2hlY2svdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+07 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTN93gj91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQi9Vc2Vycy92OTYyODY3L2NvdXJzZXJhL3dlZWsxL3F1aWNrY2hlY2svdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+08 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTN95CX51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQi9Vc2Vycy92OTYyODY3L2NvdXJzZXJhL3dlZWsxL3F1aWNrY2hlY2svdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+09 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTN97AFF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQi9Vc2Vycy92OTYyODY3L2NvdXJzZXJhL3dlZWsxL3F1aWNrY2hlY2svdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+10 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTN9/2G51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQi9Vc2Vycy92OTYyODY3L2NvdXJzZXJhL3dlZWsxL3F1aWNrY2hlY2svdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+11 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTN+LDF11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQi9Vc2Vycy92OTYyODY3L2NvdXJzZXJhL3dlZWsxL3F1aWNrY2hlY2svdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+12 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTN+Mrul1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQi9Vc2Vycy92OTYyODY3L2NvdXJzZXJhL3dlZWsxL3F1aWNrY2hlY2svdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+13 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTN+Whsd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQi9Vc2Vycy92OTYyODY3L2NvdXJzZXJhL3dlZWsxL3F1aWNrY2hlY2svdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+14 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTN+Xxv91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQi9Vc2Vycy92OTYyODY3L2NvdXJzZXJhL3dlZWsxL3F1aWNrY2hlY2svdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+15 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTN+dLyZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQi9Vc2Vycy92OTYyODY3L2NvdXJzZXJhL3dlZWsxL3F1aWNrY2hlY2svdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+16 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTN+kbfd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQi9Vc2Vycy92OTYyODY3L2NvdXJzZXJhL3dlZWsxL3F1aWNrY2hlY2svdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+17 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTN+lITF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQi9Vc2Vycy92OTYyODY3L2NvdXJzZXJhL3dlZWsxL3F1aWNrY2hlY2svdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+18 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTN+p0kF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQi9Vc2Vycy92OTYyODY3L2NvdXJzZXJhL3dlZWsxL3F1aWNrY2hlY2svdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+19 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTN+rmyl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQi9Vc2Vycy92OTYyODY3L2NvdXJzZXJhL3dlZWsxL3F1aWNrY2hlY2svdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+20 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTN+sNUJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQi9Vc2Vycy92OTYyODY3L2NvdXJzZXJhL3dlZWsxL3F1aWNrY2hlY2svdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+21 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTN+wTiF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQi9Vc2Vycy92OTYyODY3L2NvdXJzZXJhL3dlZWsxL3F1aWNrY2hlY2svdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+22 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTN+2NzF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQi9Vc2Vycy92OTYyODY3L2NvdXJzZXJhL3dlZWsxL3F1aWNrY2hlY2svdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+23 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTN+44Lt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQi9Vc2Vycy92OTYyODY3L2NvdXJzZXJhL3dlZWsxL3F1aWNrY2hlY2svdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+24 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTN+9K851cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQi9Vc2Vycy92OTYyODY3L2NvdXJzZXJhL3dlZWsxL3F1aWNrY2hlY2svdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+25 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTN/AdTN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQi9Vc2Vycy92OTYyODY3L2NvdXJzZXJhL3dlZWsxL3F1aWNrY2hlY2svdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+26 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTN/HXLV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQi9Vc2Vycy92OTYyODY3L2NvdXJzZXJhL3dlZWsxL3F1aWNrY2hlY2svdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+27 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTN/W5ip1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQi9Vc2Vycy92OTYyODY3L2NvdXJzZXJhL3dlZWsxL3F1aWNrY2hlY2svdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+28 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTN/Y0lR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQi9Vc2Vycy92OTYyODY3L2NvdXJzZXJhL3dlZWsxL3F1aWNrY2hlY2svdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+29 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTN/ZPm51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQi9Vc2Vycy92OTYyODY3L2NvdXJzZXJhL3dlZWsxL3F1aWNrY2hlY2svdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
